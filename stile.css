@@ -26,6 +26,11 @@ header {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+header h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
 header input {
     padding: 10px;
     border: 1px solid #ddd;
